@@ -1,0 +1,9 @@
+id_poliza|segmento|año|exposicion
+101|PyME|2023|1.0
+102|Corp|2023|2.0
+103|PyME|2023|0.5
+104|Corp|2024|1.5
+105|PyME|2024|1.0
+106|Corp|2024|2.0
+107|PyME|2024|1.0
+108|Corp|2024|1.5
