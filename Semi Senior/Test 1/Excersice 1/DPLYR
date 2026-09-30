@@ -1,0 +1,8 @@
+You have two data frames in R: `pólizas` (issued policies) and `siniestros` (recorded claims).
+Write the R code (using `dplyr`) to produce a summary table by segment with the following metrics:
+• Number of policies and total exposure
+• Number of claims and total claim amount
+• Claim frequency (claims/policies)
+• Average severity per claim
+• Estimated pure risk premium (frequency × severity)
+• Loss ratio, assuming an average premium per policy of $800,000
